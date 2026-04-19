@@ -1,4 +1,4 @@
-# 🩺 Comsa - Voice-Based Symptom Checker
+# 🩺 Voice Symptom Diagnosis AI
 
 Comsa is a simple voice-interaction health assistant that classifies user symptoms using **TF-IDF + Naive Bayes** and responds with basic medical advice using text-to-speech (TTS).
 
