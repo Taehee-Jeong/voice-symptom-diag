@@ -1,0 +1,5 @@
+*.mp3
+*.txt
+__pycache__/
+myenv/
+.DS_Store
